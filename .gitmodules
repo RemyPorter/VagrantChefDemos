@@ -1,0 +1,45 @@
+[submodule "boxes/cookbooks/apt"]
+	path = cookbooks/apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "boxes/cookbooks/apache2"]
+	path = cookbooks/apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
+[submodule "boxes/cookbooks/mysql"]
+	path = cookbooks/mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "boxes/cookbooks/php"]
+	path = cookbooks/php
+	url = https://github.com/opscode-cookbooks/php.git
+[submodule "boxes/cookbooks/openssl"]
+	path = cookbooks/openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "boxes/cookbooks/iptables"]
+	path = cookbooks/iptables
+	url = https://github.com/opscode-cookbooks/iptables.git
+[submodule "boxes/cookbooks/logrotate"]
+	path = cookbooks/logrotate
+	url = https://github.com/opscode-cookbooks/logrotate.git
+[submodule "boxes/cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "boxes/cookbooks/homebrew"]
+	path = cookbooks/homebrew
+	url = https://github.com/opscode-cookbooks/homebrew.git
+[submodule "boxes/cookbooks/windows"]
+	path = cookbooks/windows
+	url = https://github.com/opscode-cookbooks/windows.git
+[submodule "boxes/cookbooks/chef_handler"]
+	path = cookbooks/chef_handler
+	url = https://github.com/opscode-cookbooks/chef_handler.git
+[submodule "boxes/cookbooks/iis"]
+	path = cookbooks/iis
+	url = https://github.com/opscode-cookbooks/iis.git
+[submodule "boxes/cookbooks/xml"]
+	path = cookbooks/xml
+	url = https://github.com/opscode-cookbooks/xml.git
+[submodule "boxes/cookbooks/yum-egit"]
+	path = cookbooks/yum-egit
+	url = https://github.com/opscode-cookbooks/yum-epel.git
+[submodule "boxes/cookbooks/ruby"]
+	path = cookbooks/ruby
+	url = https://github.com/opscode-cookbooks/opscode-ruby
